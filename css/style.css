@@ -1,0 +1,10 @@
+#giphy-embed {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+    width: 120px;
+    height: 120px;
+    border: none;
+    
+}
